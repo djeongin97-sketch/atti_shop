@@ -693,6 +693,11 @@ span {
     margin-left: 30px;
 }
 
+.cover_text h3{
+    font-weight: 1000;
+    color: #2B4A74;
+}
+
 .cover h3{
     padding-bottom: 10px;
     font-weight: 600;
